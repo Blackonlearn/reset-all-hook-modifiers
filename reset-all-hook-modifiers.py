@@ -1,3 +1,5 @@
+#This simple code is mine, and it has already been pushed to github repo as my archive:https://github.com/Blackonlearn/reset-all-hook-modifiers
+
 import bpy
 
 # Get all curve objects in the scene
